@@ -1,2 +1,2 @@
 # Java
- Estudos sobre java
+ Estudos e exercícios sobre Java.
